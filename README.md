@@ -18,10 +18,10 @@ C语言是一门结构化、静态类型的中级语言，既能贴近底层硬�
 
 因此，对于电控组的队员而言，对C语言的掌握自然是越熟悉越好。但是鉴于电控相关知识在短时间内不可能精通，基本需要在进入团队后根据实际物品来进行实践学习。刚刚入门电控组的同学只需要学习完基本语法部分，可以进行简单编程以及阅读代码即可，需要掌握的内容主要包括以下部分：
 
-- 分支 循环
-- 变量与常量、数据类型、取值范围、算数运算符与逻辑运算符
-- 数组、函数、结构体、枚举类型
-- 指针
+- [分支 循环](https://github.com/RM-DragoPass-EC-Group/EC-Group-Tutorial/blob/main/Getting%20Start%20with%20C%20Language/1.%20%E5%88%86%E6%94%AF%20%E5%BE%AA%E7%8E%AF.pdf)
+- [变量与常量、数据类型、取值范围、算数运算符与逻辑运算符](https://github.com/RM-DragoPass-EC-Group/EC-Group-Tutorial/blob/main/Getting%20Start%20with%20C%20Language/2.%20%E5%8F%98%E9%87%8F%E4%B8%8E%E5%B8%B8%E9%87%8F%E3%80%81%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E3%80%81%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E3%80%81%E7%AE%97%E6%95%B0%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8E%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6.pdf)
+- [数组、函数、结构体、枚举类型](https://github.com/RM-DragoPass-EC-Group/EC-Group-Tutorial/blob/main/Getting%20Start%20with%20C%20Language/3.%20%E6%95%B0%E7%BB%84%E3%80%81%E5%87%BD%E6%95%B0%E3%80%81%E7%BB%93%E6%9E%84%E4%BD%93%E3%80%81%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B.pdf)
+- [指针](https://github.com/RM-DragoPass-EC-Group/EC-Group-Tutorial/blob/main/Getting%20Start%20with%20C%20Language/4.%20%E6%8C%87%E9%92%88.pdf)
 
 拓展(option)：对于有余力和有想法的同学，欢迎完整学习C语言编程，参考教程：[C语言教程|菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
 
@@ -30,7 +30,7 @@ C语言是一门结构化、静态类型的中级语言，既能贴近底层硬�
 在真正动手写下第一行代码之前，了解我们正在操控的“机器”本身，是电控学习的第一步。RoboMaster 机器人并不是一个单一的设备，而是由多个高度集成、相互协作的模块组成的复杂系统。嵌入式开发基本上是一个软硬件开发结合的过程，没有单纯的软件和单纯的硬件，只有侧重点的不同。
 本章将带你快速浏览 RoboMaster 机器人的主要组成部分，并重点介绍那些与你作为“电控工程师”息息相关的硬件模块。掌握这些模块的结构与功能，不仅能帮助我们更清晰地理解代码在“控制什么”，更能在调试和排障中快速定位问题。
 
-- [快速链接: 认识 RoboMaster 机器人]()
+- [快速链接: 认识 RoboMaster 机器人](https://github.com/RM-DragoPass-EC-Group/EC-Group-Tutorial/blob/main/RM-EC%201%20%E2%80%94%E2%80%94%20Introduction%20of%20RoboMaster%20Robots/README.md)
 
 ## RM电控入门 2：通讯协议
 
