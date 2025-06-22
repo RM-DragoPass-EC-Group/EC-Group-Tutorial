@@ -75,7 +75,7 @@ PID（比例-积分-微分）控制器是一种广泛应用于工业与机器人
 - [麦克纳姆轮正逆运动学解算](https://www.robotsfan.com/posts/b6e9d4e.html)
 
 ## 笔试题参考
-我们上传了一份电控组笔试题（word文档）以供参考：
+我们上传了一份电控组笔试题（word文档，需下载到本地查看）以供参考：
 - [参考笔试题](https://github.com/RM-DragoPass-EC-Group/EC-Group-Tutorial/blob/main/test%20template.docx)
 
 注意：上述笔试题仅作题型参考，不代表最终笔试题的分数权重分配和题目难度
